@@ -1,0 +1,23 @@
+# Site navigation links
+
+- title: What's Happening
+  url: /articles/
+  excerpt: "Examples of long form posts."
+  image: 400x250.gif
+
+- title: Mokjang News
+  url: /media/
+  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  image: 400x250.gif
+
+- title: About us
+  url: /about/
+  excerpt: "All about Skinny Bones for Jekyll."
+  image: 400x250.gif
+
+- title: 한국어
+  url: /about/
+  excerpt: "All about Skinny Bones for Jekyll."
+  image: 400x250.gif
+
+# About us shows all pastors
