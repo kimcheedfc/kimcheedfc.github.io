@@ -2,22 +2,22 @@
 
 - title: What's Happening
   url: /articles/
-  excerpt: "Examples of long form posts."
+  excerpt: "What's happening in Glory Baptist Church"
   image: 400x250.gif
 
 - title: Mokjang News
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  url: /mokjang-news/
+  excerpt: "Updates from the Glory Baptist Mokjang"
   image: 400x250.gif
 
 - title: About us
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "About Glory Baptist Church's History"
   image: 400x250.gif
 
 - title: 한국어
-  url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  url: /kr/
+  excerpt: "Korean website"
   image: 400x250.gif
 
 # About us shows all pastors
