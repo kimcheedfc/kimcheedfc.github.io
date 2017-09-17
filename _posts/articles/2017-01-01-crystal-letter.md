@@ -10,7 +10,7 @@ tags: []
 ads: false
 image:
   feature:
-  teaser:
+  teaser: "korean_class_crystal_letter.jpg"
 ---
 
 As every semester, the Korean language class was offered to students of UTD this

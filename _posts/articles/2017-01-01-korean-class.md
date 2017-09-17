@@ -9,7 +9,7 @@ tags: []
 ads: false
 image:
   feature:
-  teaser:
+  teaser: "korean_class/korean_class_1.jpg"
 ---
 
 As every semester, the Korean language class was offered to students of UTD this

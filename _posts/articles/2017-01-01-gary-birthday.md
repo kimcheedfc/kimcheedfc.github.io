@@ -9,7 +9,7 @@ tags: []
 ads: false
 image:
   feature:
-  teaser:
+  teaser: "gary-birthday.jpg"
 ---
 
 Following a celebration by the church, the youth group surprised Pastor Gary by
